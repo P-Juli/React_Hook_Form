@@ -1,0 +1,8 @@
+.reacthookform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.reacthookform>p{
+    color: red;
+}
